@@ -2,6 +2,7 @@
 原本这个代码是git上一位网友写的，不过这位同仁已经好久没有更新代码，其上传的源代码已经不能编译，在此修改下，再次上传，大神请绕道。
 giflib-ios
 Wrap Giflib for iOS development.
+
 Create by jeffasd
 
 Create by SoleilPQD@gmail.com
